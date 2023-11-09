@@ -1,2 +1,2 @@
 # e-commerce
-ecommerce store to shocase skills in web development
+ecommerce store to showcase skills in web development
